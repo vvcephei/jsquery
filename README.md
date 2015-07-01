@@ -13,7 +13,7 @@ I've used jq and jsawk, and they are useful for many things, but there are two b
 1. It is awkward (jq) or impossible (jsawk) to traverse the structure based on key matches
 2. You can't get the path back that matched the query
 
-So, I've banged out a small to to allow me to do these things. It's very much a work in progress.
+So, I've banged out a small script to to allow me to do these things. It's very much a work in progress.
 
 Usage
 -----
